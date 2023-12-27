@@ -1,0 +1,3 @@
+﻿  Lab_9.cpp
+D:\Downloads\Telegram Desktop\Lab_9\Lab_9\Lab_9\Lab_9.cpp(85,87): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  Lab_9.vcxproj -> D:\Downloads\Telegram Desktop\Lab_9\Lab_9\x64\Debug\Lab_9.exe
